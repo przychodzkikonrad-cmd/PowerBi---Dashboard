@@ -1,8 +1,9 @@
 # 📊 Data Science Job Market Analysis (2024)
 
 
-  ![Market Overview](./images/overview.gif) 
+![Market Overview](./images/overview.gif) 
 </a>
+
 
 
 ---
